@@ -1,0 +1,10 @@
+.main {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    align-items: center;
+}
+
+.main li {
+    font-style: italic;
+}

@@ -1,0 +1,38 @@
+header {
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    justify-content: space-around;
+
+}
+
+header img {
+    max-width: 25%;
+    min-width: 15%;
+    border-radius: 50%;
+
+}
+
+.nav-bar ul {
+    display: flex;
+    list-style-type: none;
+    padding: 0;
+    overflow: hidden;
+}
+
+.nav-bar ul li {
+    font-size: 1.4em;
+    padding: 1em;
+}
+
+.nav-bar a:link {
+    color: blue;
+}
+
+.nav-bar a:visited {
+    color: #04aa6d;
+}
+
+.nav-bar a:hover {
+    color: rgb(248, 98, 98);
+}

@@ -1,0 +1,17 @@
+footer {
+    background-color: chocolate;
+    color: #fff;
+    text-align: center;
+    margin-top: 1.8em;
+}
+
+footer p {
+    padding-bottom: 0.5em;
+}
+
+.fa {
+    padding: 1.3em;
+    font-size: 1.6em;
+    text-align: center;
+    text-decoration: none;
+}
