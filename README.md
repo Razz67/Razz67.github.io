@@ -1,1 +1,2 @@
-# index.html
+# Per Scholas Pre-work assignment
+
